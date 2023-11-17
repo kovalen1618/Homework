@@ -3,7 +3,6 @@
 
 {
   "recommendations": [
-    "2gua.rainbow-brackets",
     "aaron-bond.better-comments",
     "alefragnani.bookmarks",
     "christian-kohler.npm-intellisense",
@@ -19,7 +18,6 @@
     "oderwat.indent-rainbow",
     "pkief.material-icon-theme",
     "plievone.vscode-template-literal-editor",
-    "sdras.night-owl",
     "smelukov.vscode-csstree",
     "stkb.rewrap",
     "streetsidesoftware.code-spell-checker",
