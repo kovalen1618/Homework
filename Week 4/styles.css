@@ -1,0 +1,30 @@
+body {
+  background-color: #00171F;
+  color: #CED3DC;
+  height: 100vh;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#wrapper {
+  max-width: 500px;
+  display: flex;
+  margin: 0 auto;
+}
+
+#wrapper > ol {
+  margin: 0 30px 0 0;
+}
+
+#wrapper > img {
+  object-fit: cover;
+}
+
+.highlight {
+  text-decoration: none;
+  color: #CED3DC;
+  background-color: #704E2E;
+  border-radius: 15px;
+  padding: 3px;
+}
