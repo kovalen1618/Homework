@@ -312,4 +312,4 @@ console.log(numberThreeTasks);
 const incompleteTasks = tasks.filter(task => {
   return task.completed === false && task.userId === 3;
 });
-console.log(incompleteTasks);
+console.log(incompleteTasks.length);
